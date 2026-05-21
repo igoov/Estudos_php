@@ -20,7 +20,19 @@
         //5 - Aceita caracteres cacentuados como á,õ,ç
         //6 - A lingugagem é case sensitive em relação ao nomes
         //7 - Nomes especiais como $this nao podem ser utilizadas
+
+        //Recomendações para dar nomes
+        //1 - Tente dar nomes claros e de facil identificacoes
+        //2 - Evite nomes mt curtos ou muito longos
+        //3 - Defina um padrao e siga em todo o projeto
+        //4 - Para variaveis, de preferencias a letras minusculas
+        //5 - Para constantes, de preferencia a letras maiusculas
+        //6 - Use camelCase para metodos e atributos
+        //7 - Use SNAKE_CASE para nomear constantes 
         
+        //variavel camelCase = $nomeCompleto, $nomeCompletoCliente
+        //variavel SNAKE_CASE = $telefone_contato_fornecedor
+
     ?>
 </body>
 </html>
